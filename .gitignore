@@ -27,3 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+##
+/.idea/
+facade_structural_design_pattern_java_implementation.iml
